@@ -1,3 +1,2 @@
 print('4st program')
-
-print(int(123.456*10))
+print(int(123.456*10)%10)
